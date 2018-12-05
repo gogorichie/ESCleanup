@@ -1,4 +1,4 @@
-# This is where i should explain how all the variables work i guess 
+# This is where i should explain how all the variables work i guess.
 
 $DateToRemove = (get-date).AddDays(-7).ToString("yyy.MM.dd")
 $ESAddress = "http://localhost"
